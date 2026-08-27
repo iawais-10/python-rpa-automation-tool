@@ -90,7 +90,7 @@ Appilot can evaluate your process, devices and integration requirements. Share a
 
 ### Are the screenshots real?
 
-They are user-supplied project screenshots, preserved unchanged. Captions distinguish what is visible from what still needs to be implemented or verified. See [media notes](docs/media-notes.md).
+They are user-supplied project screenshots, preserved unchanged. Captions distinguish what is visible from what still needs to be implemented or verified. 
 
 ### Is this an official platform product?
 
@@ -103,6 +103,3 @@ No endorsement or affiliation with Instagram, Meta, AdsPower or Reddit is implie
 
 [Visit Appilot](https://www.appilot.app/) · [Contact Appilot](https://www.appilot.app/contact)
 
-## License
-
-The authored documentation is available under the [MIT license](LICENSE). Supplied screenshots, branding and third-party marks are excluded; obtain the necessary rights before redistributing those assets. No production application is licensed or delivered by this repository.
